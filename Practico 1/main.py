@@ -29,6 +29,6 @@ p_mas_2 = 1 - (p0 + p1 + p2)
 # Resultados
 print(f"a) Equipos rotos en promedio: {n:.4f}")
 print(f"b) Tiempo medio de espera (horas): {t_f*24:.4f}")
-print(f"c) Probabilidad de n > 2: {p_mas_2:.4%}")
+print(f"c) Probabilidad de n > 2 equipos fuera de servicio: {p_mas_2:.4%}")
 
 
